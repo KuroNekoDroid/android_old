@@ -4,7 +4,7 @@ KuroNekoDroid
 About ROM
 ---------------
 
-KuroNekoDroid is based on LineageOS and aims on high optimization for low ram/cpu devices to prevent them from lagging
+KuroNekoDroid is based on LineageOS and aims to give high optimization for low ram/cpu devices to prevent them from lagging
 
 Getting started
 ---------------
