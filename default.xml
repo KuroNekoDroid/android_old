@@ -643,7 +643,7 @@
   <project path="external/rust/crates/x509-parser" name="platform/external/rust/crates/x509-parser" groups="pdk" remote="aosp" />
   <project path="external/rust/crates/xml-rs" name="platform/external/rust/crates/xml-rs" groups="pdk" remote="aosp" />
   <project path="external/rust/crates/zip" name="platform/external/rust/crates/zip" groups="pdk" remote="aosp" />
-  <project path="external/rust/cxx" name="platform/external/rust/cxx" groups="pdk" remote="aosp" />
+  <project path="external/rust/cxx" name="KuroNekoDroid/external_rust_cxx" groups="pdk" />
   <project path="external/ruy" name="platform/external/ruy" groups="pdk" remote="aosp" />
   <project path="external/s2-geometry-library-java" name="platform/external/s2-geometry-library-java" groups="pdk" remote="aosp" />
   <project path="external/scapy" name="platform/external/scapy" groups="pdk-fs" remote="aosp" />
@@ -913,7 +913,7 @@
   <project path="packages/modules/AdServices" name="platform/packages/modules/AdServices" groups="pdk-fs" remote="aosp" />
   <project path="packages/modules/AppSearch" name="platform/packages/modules/AppSearch" groups="pdk" remote="aosp" />
   <project path="packages/modules/ArtPrebuilt" name="platform/packages/modules/ArtPrebuilt" groups="pdk" clone-depth="1" remote="aosp" />
-  <project path="packages/modules/Bluetooth" name="LineageOS/android_packages_modules_Bluetooth" groups="pdk" />
+  <project path="packages/modules/Bluetooth" name="KuroNekoDroid/packages_modules_Bluetooth" groups="pdk" />
   <project path="packages/modules/BootPrebuilt/5.4/arm64" name="platform/packages/modules/BootPrebuilt/5.4/arm64" groups="pdk" clone-depth="1" remote="aosp" />
   <project path="packages/modules/BootPrebuilt/5.10/arm64" name="platform/packages/modules/BootPrebuilt/5.10/arm64" groups="pdk" clone-depth="1" remote="aosp" />
   <project path="packages/modules/CaptivePortalLogin" name="platform/packages/modules/CaptivePortalLogin" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
