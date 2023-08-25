@@ -2,11 +2,10 @@
 <manifest>
 
   <remote  name="github"
-           fetch=".."
-           review="review.lineageos.org" />
+           fetch=""https://github.com/" />
 
   <remote  name="gitlab"
-           fetch=".." />
+           fetch="https://gitlab.com/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
