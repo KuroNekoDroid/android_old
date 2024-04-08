@@ -13,9 +13,9 @@ To get started with Android/KuroNekoDroid, you'll need to get familiar with [Sou
 
 To initialize your local repository using the KuroNekoDroid trees, use a command like this:
 ```
-repo init -u https://github.com/KuroNekoDroid/android.git -b lineage-20.0 --git-lfs
+repo init -u https://github.com/KuroNekoDroid/android_old.git -b lineage-20.0 --git-lfs
 ```
 Then to sync up:
 ```
-repo sync
+repo sync -c --no-clone-bundle --optimized-fetch --prune --force-sync -j$(nproc --all)
 ```
