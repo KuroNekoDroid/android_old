@@ -35,7 +35,7 @@
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" />
   <project path="packages/apps/DeskClock" name="KuroNekoDroid/android_packages_apps_DeskClock_old" groups="pdk-fs" />
   <project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" />
-  <project path="packages/apps/Etar" name="KuroNekoDroid/android_packages_apps_Etar" />
+  <project path="packages/apps/Etar" name="LineageOS/android_packages_apps_Etar" />
   <project path="packages/apps/ExactCalculator" name="KuroNekoDroid/android_packages_apps_ExactCalculator_old" />
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />
   <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" />
